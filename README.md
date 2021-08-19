@@ -14,4 +14,4 @@ aqui você encontra arquivos com análises já feitas pelas pesqusadoras e pesqu
 aqui você encontra as bases de dados utilizadas nas análises, raspadas do site original do Proac SP.
 
 /programacoes_e_raspadores:
-aqui você encontra linhas de código e notebooks para análises e/ou raspadores já produzidos para o trabalho com os dados.
+aqui você encontra linhas de código e notebooks para análises e/ou raspadores já produzidos para o trabalho com os dados. (AINDA NÃO ATUALIZADA)
