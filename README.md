@@ -6,6 +6,7 @@ Repositório mantido de forma independente por pesquisadores do setor cultural.
 Bases de dados coletadas a partir do site oficial do Proac: www.proac.sp.gov.br
 
 Índice:
+
 /analises:
 aqui você encontra arquivos com análises já feitas pelas pesqusadoras e pesquisadores, desde tabelas de dados até relatórios e apresentações.
 
