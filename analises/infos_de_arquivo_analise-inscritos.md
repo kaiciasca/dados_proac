@@ -7,7 +7,7 @@
 	- análises realizadas a partir dos dados que podem ser encontrados no arquivo [2021_inscritos_todos.csv](../base_dados/2021_inscritos_todos.csv), na pasta [base_dados](../base_dados).<br>
 	- informações acerca dos dados brutos (fonte de mineração, organização e relatório de erros) no arquivo [infos_de_arquivo_inscritos.md](../base_dados/infos_de_arquivo_inscritos.md)<br>
 
-## ÍNDICE DE ABAS DO DOCUMENTO DE ANÁLISES
+### ÍNDICE DE ABAS DO DOCUMENTO DE ANÁLISES
 
 Resumo Região : Resumo de inscrições agrupadas por Região Administraviva<br>
 Inscrições por RA : Inscrições por edital agrupados por Região Administrativa<br>
@@ -20,9 +20,10 @@ Pivot.Inf.Muncipio : Tabela compilando informações de Municipios<br>
 Pop.2020-IBGE : Populações por municippio em 2020 segundo IBGE<br>
 Cidades - RA - SEADE : Divisão de cidade por Região Administrativa segundo SEADE
 
-## ÍNDICE DE COLUNAS DA ABA INSCRIÇÕES
+### ÍNDICE DE COLUNAS DA ABA INSCRIÇÕES
 
 *Aba INSCRIÇÕES refere-se à base de dados presente no arquivo [2021_inscritos_todos.csv](../base_dados/2021_inscritos_todos.csv), porém com os nomes dos municípios tratados para uso de fórmulas nas outras tabelas. Sendo assim, segue abaixo a lista de colunas dessa aba, com as colunas incluídas, além das colunas iguais ao arquivo original:*
+
 ### Colunas
 
 A - Edital : Edital da inscrição<br>
