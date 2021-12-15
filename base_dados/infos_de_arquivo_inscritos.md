@@ -21,7 +21,7 @@ F - Proponente : Nome de proponente no sistema ProAC<br>
 G - Tipo : Tipo de proponente no sistema ProAC (Pessoa Fisica, Pessoa Jurídica ou Cooperativa)<br>
 H - Município : Municipio de proponente da proposta no sistema ProAC<br>
 I - Cod Municipio : Código do Municipio seguindo sistematização do IBGE<br>
-J - RA: Região Administrativa do Municipio seguindo sitematização SEADE (divisão administrativa do Governo do Estado de São Paulo)<br>
+J - RA : Região Administrativa do Municipio seguindo sitematização SEADE (divisão administrativa do Governo do Estado de São Paulo)<br>
 K - Linguagem : Linguagem da proposta dentro do edital no sistema ProAC (informação existente em apenas alguns editais em que havia mais de uma linguagem)<br>
 L - Nome do Cooperado : Nome da pessoa cooperada, em caso de inscrição de cooperativa no sistema ProAC<br>
 M - Cidade do Cooperado : Municipio da pessoa cooperada, em caso de inscrição de cooperativa no sistema ProAC<br>
