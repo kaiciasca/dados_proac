@@ -22,7 +22,7 @@ Cidades - RA - SEADE : Divisão de cidade por Região Administrativa segundo SEA
 
 ## ÍNDICE DE COLUNAS DA ABA INSCRIÇÕES
 
-*Aba INSCRIÇÕES refere-se à base de dados presente no arquivo [2021_inscritos_todos.csv](../base_dados/2021_inscritos_todos.csv), porém com os nomes dos municípios tratados para uso de fórmulas nas outras tabelas. Sendo assim, segue abaixo a lista de colunas dessa aba, com as colunas incluídas, além das colunas iguais ao arquivo original:*<br>
+*Aba INSCRIÇÕES refere-se à base de dados presente no arquivo [2021_inscritos_todos.csv](../base_dados/2021_inscritos_todos.csv), porém com os nomes dos municípios tratados para uso de fórmulas nas outras tabelas. Sendo assim, segue abaixo a lista de colunas dessa aba, com as colunas incluídas, além das colunas iguais ao arquivo original:*
 ### Colunas
 
 A - Edital : Edital da inscrição<br>
@@ -42,5 +42,5 @@ P - Nome do Cooperado: Nome da pessoa cooperada em caso de inscrição de cooper
 Q - Cidade do Cooperado : Cidade da pessoa cooperada em caso de inscrição de cooperativa no sistema ProAC<br>
 R-T : Colunas de tratamento dos nomes de municipios da pessoa cooperada retirando espaços entre palavras para alinhar com dados de codigo do IBGE<br>
 U - Cidade Cooperado Tratada : Nomes reesultantees das operações das colunas R-T<br>
-V - Cod Mun : Código do Municipio da pessoa cooperada seguindo sistematização do IBGE<br>
-W - RA : Região Administrativa do Municipio da pessoa cooperada seguindo ssitematização SEADE<br>
+V - Cod Mun Cooperado : Código do Municipio da pessoa cooperada seguindo sistematização do IBGE<br>
+W - RA Cooperado : Região Administrativa do Municipio da pessoa cooperada seguindo ssitematização SEADE<br>
