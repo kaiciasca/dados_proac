@@ -41,8 +41,7 @@ J - RA: Região Administrativa do Municipio seguindo sitematização SEADE (divi
 K - Linguagem : Linguagem da proposta dentro do edital no sistema ProAC (informação existente em apenas alguns editais em que havia mais de uma linguagem)
 
 L - Nome do Cooperado : Nome da pessoa cooperada, em caso de inscrição de cooperativa no sistema ProAC
-
-M - Cidade do Cooperado : Municipio da pessoa cooperada, em caso de inscrição de cooperativa no sistema ProAC</>
+M - Cidade do Cooperado : Municipio da pessoa cooperada, em caso de inscrição de cooperativa no sistema ProAC<br>
 N - Cod Mun Cooperado : Código do Municipio da pessoa cooperada seguindo sistematização do IBGE, em caso de inscrição de cooperativa no sistema ProAC
 O - RA Cooperado : Região Administrativa do Municipio da pessoa cooperada seguindo ssitematização SEADE, em caso de inscrição de cooperativa no sistema ProAC
 
