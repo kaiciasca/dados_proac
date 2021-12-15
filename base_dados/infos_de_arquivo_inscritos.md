@@ -1,8 +1,11 @@
 # INFORMAÇÕES DO ARQUIVO
 
 - "2021_inscritos_todos.csv"
+- 
 	tipo de arquivo: csv
+	
 	última versão dos dados criada em 15/12/2021
+	
 	exportada a partir do site do Proac SP (https://www.proac.sp.gov.br/proac-editais-editais-e-resultados/). Depois do download, os arquivos em pdf foram transformados para planilhas no 'ilovepdf' e depois corrigidos manualmente. Os downloads realizados se referem à documentos divulgados nas páginas de cada edital, com os projetos inscritos, lançados até 03/08/2021 (após isso não houve novos downloads com as atualizações de inscrições, devido ao baixo número de alterações).
 	separador: ","
 	encoding: UTF-8
