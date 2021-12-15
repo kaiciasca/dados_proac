@@ -8,7 +8,7 @@ Bases de dados coletadas a partir do site oficial do Proac: www.proac.sp.gov.br
 Índice:
 
 [analises](/analises):
-* aqui você encontra arquivos com análises já feitas pelas pesqusadoras e pesquisadores, desde tabelas de dados até relatórios e apresentações.
+- aqui você encontra arquivos com análises já feitas pelas pesqusadoras e pesquisadores, desde tabelas de dados até relatórios e apresentações.
 
 [base_dados](/base_dados):
 * aqui você encontra as bases de dados utilizadas nas análises, raspadas do site original do Proac SP.
