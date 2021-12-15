@@ -1,4 +1,4 @@
-# INFORMAÇÕES DO ARQUIVO=
+# INFORMAÇÕES DO ARQUIVO
 
 - "2021_inscritos_todos.csv"
 	tipo de arquivo: csv
