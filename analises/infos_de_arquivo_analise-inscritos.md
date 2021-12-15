@@ -44,3 +44,7 @@ R-T : Colunas de tratamento dos nomes de municipios da pessoa cooperada retirand
 U - Cidade Cooperado Tratada : Nomes reesultantees das operações das colunas R-T<br>
 V - Cod Mun Cooperado : Código do Municipio da pessoa cooperada seguindo sistematização do IBGE<br>
 W - RA Cooperado : Região Administrativa do Municipio da pessoa cooperada seguindo ssitematização SEADE<br>
+
+## VISUALIZAÇÃO DE DADOS
+
+**Todas essas tabelas geraram as análises que serviram de material para as visualizações presentes [neste link](https://public.flourish.studio/story/1003996/).** 
