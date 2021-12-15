@@ -7,12 +7,12 @@
 	- análises realizadas a partir dos dados que podem ser encontrados no arquivo [2021_inscritos_todos.csv](../base_dados/2021_inscritos_todos.csv), na pasta [base_dados](../base_dados).<br>
 	- informações acerca dos dados brutos (fonte de mineração, organização e relatório de erros) no arquivo [infos_de_arquivo_inscritos.md](../base_dados/infos_de_arquivo_inscritos.md)<br>
 
-## ÍNDICE DE ABAS
+## ÍNDICE DE ABAS DO DOCUMENTO DE ANÁLISES
 
 Resumo Região : Resumo de inscrições agrupadas por Região Administraviva<br>
 Inscrições por RA : Inscrições por edital agrupados por Região Administrativa<br>
 Recursos por RA : Valores pleiteeiados por projetos inscritos agrupados por Região Administrativa<br>
-Inscrições por Cidadee : Inscrições por edital agrupados por cidade<br>
+Inscrições por Cidade : Inscrições por edital agrupados por cidade<br>
 Recursos por Cidade : Valores pleiteeiados por projetos inscritos agrupados por cidade<br>
 EditaisModulos-valores : valores de projetos por Edital e modulo<br>
 INSCRIÇÕES : Base de dados das inscrições<br>
