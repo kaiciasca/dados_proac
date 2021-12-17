@@ -14,7 +14,7 @@ Bases de dados coletadas a partir do site oficial do Proac: www.proac.sp.gov.br
 <br>aqui você encontra as bases de dados utilizadas nas análises, raspadas do site original do Proac SP.
 
 /programacoes_e_raspadores:
-<br>aqui você encontra linhas de código e notebooks para análises e/ou raspadores já produzidos para o trabalho com os dados. (AINDA NÃO CRIADA)
+<br>aqui você encontrará linhas de código e notebooks, caso hajam, para análises e/ou raspadores já produzidos para o trabalho com os dados. (AINDA NÃO CRIADA)
 
 ### Contato
 *para dúvidas, sugestões e parcerias, envie email para analisedados.proac@gmail.com*
