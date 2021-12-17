@@ -17,4 +17,4 @@ Bases de dados coletadas a partir do site oficial do Proac: www.proac.sp.gov.br
 <br>aqui você encontra linhas de código e notebooks para análises e/ou raspadores já produzidos para o trabalho com os dados. (AINDA NÃO CRIADA)
 
 ### Contato
-*para contato para dúvidas, sugestões e parcerias, envie email para ...*
+*para dúvidas, sugestões e parcerias, envie email para analisedados.proac@gmail.com*
